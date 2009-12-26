@@ -20,17 +20,28 @@ a:hover, a:active {
 
 #titlebar {
   width: 1000px;
-  height: 151px;
   margin: 0 auto;
   margin-top: 25px;
-  margin-bottom: 25px;
+  margin-bottom: 50px;
+}
+
+#titlebar blockquote{
+  margin: 0px;
+  padding: 0px;
+  clear: both;
+  width: 770px;
+  text-align: center;
 }
 
 #logo {
-  float: left;
-  height: 151px;
   width: 770px;
   text-align: center;
+}
+
+#logo h1{
+  font-size: 4em;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
 }
 
 #navigation {

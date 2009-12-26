@@ -1,0 +1,20 @@
+---
+layout: post
+title: "The First Meeting - January 13th, 2010"
+---
+
+Welcome to the first blog post for the Waco Tech Lunch social lunch gathering! The idea behind the Waco Tech Lunch is to create a social gathering of like minded people, over lunch, to talk all things tech and generally have fun!
+
+h2. The First Meeting: January 13th, 2010
+
+Right now, the plan is to have the first meeting at Rudy's BBQ on January 13th, 2010. That's the second wednesday of the new year! 
+
+<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=rudy's+bbq,+waco,+tx&amp;sll=37.0625,-95.677068&amp;sspn=58.816238,135.263672&amp;ie=UTF8&amp;hq=rudy's+bbq,&amp;hnear=Waco,+TX&amp;z=14&amp;iwloc=A&amp;cid=2657523326593654447&amp;ll=31.536847,-97.127895&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=rudy's+bbq,+waco,+tx&amp;sll=37.0625,-95.677068&amp;sspn=58.816238,135.263672&amp;ie=UTF8&amp;hq=rudy's+bbq,&amp;hnear=Waco,+TX&amp;z=14&amp;iwloc=A&amp;cid=2657523326593654447&amp;ll=31.536847,-97.127895" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+h3. Who Should Go?
+
+If you're a technology professional or enthusiast in the Waco, TX area, you should definitely come! That includes software developers, web developers, designers, IT support persons, and any other technical trade related to computers, software and hardware. 
+
+h3. Why Should I Go?
+
+There's a small but growing number of techies in the Waco area. I ("Derick Bailey":http://derickbailey.lostechies.com) am one of them, and I don't know very many of you. I'd like to change that by having a monthly get together over lunch, so that we can talk about technology and Waco. If you're looking to talk tech, make some new friends, and generally have fun with your fellow techies, then you should come. 
