@@ -11,15 +11,15 @@ body {
 }
 
 a { 
-  color: #004F15;
+  color: #8e641e;
 }
 
 a:visited {
-  color: #004F15;
+  color: #8e641e;
 }
 
 a:hover, a:active {
-  color: #186F35;
+  color: #d59a36;
 }
 
 #titlebar {
@@ -29,30 +29,13 @@ a:hover, a:active {
   margin-bottom: 50px;
 }
 
-#titlebar blockquote{
-  margin: 0px;
-  padding: 0px;
-  padding-left: 54px;
-  clear: both;
-  width: 770px;
-  text-align: center;
-}
-
 #logo {
   width: 770px;
   text-align: center;
 }
 
 #logo img {
-	float: left;
 	vertical-align: middle;
-}
-
-#logo h1{
-  font-size: 4em;
-  padding-bottom: 0px;
-  margin-bottom: 0px;
-  color: #000000;
 }
 
 #navigation {
@@ -149,7 +132,7 @@ code {
 h1, h2 {
 	margin-top: 0px;
 	padding: 0px;
-	color: #186F35;
+	color: #00006f;
 }
 
 #post_comments{
