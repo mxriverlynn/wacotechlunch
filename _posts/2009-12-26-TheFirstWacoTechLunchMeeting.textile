@@ -9,7 +9,7 @@ h2. The First Meeting: January 13th, 2010
 
 Right now, the plan is to have the first meeting at Rudy's BBQ on January 13th, 2010. That's the second wednesday of the new year! 
 
-<iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=rudy's+bbq,+waco,+tx&amp;sll=37.0625,-95.677068&amp;sspn=58.816238,135.263672&amp;ie=UTF8&amp;hq=rudy's+bbq,&amp;hnear=Waco,+TX&amp;z=14&amp;iwloc=A&amp;cid=2657523326593654447&amp;ll=31.536847,-97.127895&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=rudy's+bbq,+waco,+tx&amp;sll=37.0625,-95.677068&amp;sspn=58.816238,135.263672&amp;ie=UTF8&amp;hq=rudy's+bbq,&amp;hnear=Waco,+TX&amp;z=14&amp;iwloc=A&amp;cid=2657523326593654447&amp;ll=31.536847,-97.127895" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+<iframe width="700" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=rudy's+bbq,+waco,+tx&amp;sll=37.0625,-95.677068&amp;sspn=58.816238,135.263672&amp;ie=UTF8&amp;hq=rudy's+bbq,&amp;hnear=Waco,+TX&amp;z=14&amp;iwloc=A&amp;cid=2657523326593654447&amp;ll=31.536847,-97.127895&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=rudy's+bbq,+waco,+tx&amp;sll=37.0625,-95.677068&amp;sspn=58.816238,135.263672&amp;ie=UTF8&amp;hq=rudy's+bbq,&amp;hnear=Waco,+TX&amp;z=14&amp;iwloc=A&amp;cid=2657523326593654447&amp;ll=31.536847,-97.127895" style="color:#0000FF;text-align:left">View Larger Map</a></small>
 
 h3. Who Should Go?
 

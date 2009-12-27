@@ -30,7 +30,7 @@
 <body>
   <div id="titlebar">
     <div id="logo">
-      <a href="{{ site.url }}"><h1>Waco Tech Lunch</h1></a>
+      <h1>Waco Tech Lunch</h1>
     </div>
     <blockquote>A Social Gathering Of Techies In Waco, TX</blockquote>
   </div>
@@ -41,9 +41,10 @@
     </div>
     <div id="sidebar">
       <div class="sidebar_item">
-        <a href="http://www.google.com/calendar/ical/wacotechlunch%40gmail.com/public/basic.ics"><img class="rollover" src="{{ site.url }}/images/calendar.png" hover="{{ site.url }}/images/calendar-color.png" border="0"></a>
-        <a href="http://twitter.com/wacotechlunch"><img class="rollover" src="{{ site.url }}/images/twitter.png" hover="{{ site.url }}/images/twitter-color.png" border="0"></a>
-        <a href="http://feeds.feedburner.com/WacoTechLunch"><img class="rollover" src="{{ site.url }}/images/rss.png" hover="{{ site.url }}/images/rss-color.png" border="0"></a>
+        <a href="{{ site.url }}" target="_new"><img class="rollover" src="{{ site.url }}/images/home.png" hover="{{ site.url }}/images/home-color.png" border="0"></a>
+        <a href="{{ site.calendar }}" target="_new"><img class="rollover" src="{{ site.url }}/images/calendar.png" hover="{{ site.url }}/images/calendar-color.png" border="0"></a>
+        <a href="{{ site.twitter }}" target="_new"><img class="rollover" src="{{ site.url }}/images/twitter.png" hover="{{ site.url }}/images/twitter-color.png" border="0"></a>
+        <a href="{{ site.rss }}" target="_new"><img class="rollover" src="{{ site.url }}/images/rss.png" hover="{{ site.url }}/images/rss-color.png" border="0"></a>
       </div>
       <div class="sidebar_item">
 		<script src="http://widgets.twimg.com/j/2/widget.js"></script>
@@ -53,7 +54,7 @@
 		  type: 'profile',
 		  rpp: 4,
 		  interval: 6000,
-		  width: 230,
+		  width: 220,
 		  height: 300,
 		  theme: {
 		    shell: {

@@ -1,3 +1,6 @@
 url: http://wacotechlunch.net
+calendar: "http://www.google.com/calendar/ical/wacotechlunch%40gmail.com/public/basic.ics"
+twitter: http://twitter.com/WacoTechLunch
+rss: http://feeds.feedburner.com/WacoTechLunch
 exclude:
 - _source
