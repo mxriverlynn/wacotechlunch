@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="waco-logo.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective2824"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.969502"
+     inkscape:cx="416.48468"
+     inkscape:cy="361.49343"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer">
+    <g
+       id="g3646"
+       transform="matrix(2.6579807,0,0,2.6579807,-755.87179,-1132.5302)"
+       inkscape:export-filename="/Users/derickbailey/dev/wacotechlunch/_source/logo/waco-logo.png"
+       inkscape:export-xdpi="43.741837"
+       inkscape:export-ydpi="43.741837">
+      <path
+         sodipodi:nodetypes="cczcczcccczcc"
+         id="path3609"
+         d="m 349.57607,659.32279 11.21634,-10.43744 c 0,0 1.05015,-0.84621 1.71361,-0.77891 0.66346,0.0673 1.71361,1.24626 1.71361,1.24626 l 23.52317,41.74973 c 0,0 0.64076,0.9915 1.24626,1.09047 0.60549,0.099 1.86939,-0.31156 1.86939,-0.31156 l 3.27144,-1.40204 -13.39731,12.77417 -24.92521,-44.39803 c 0,0 -0.42402,-0.88085 -0.93469,-1.09048 -0.51067,-0.20963 -1.8694,0.15578 -1.8694,0.15578 l -3.42721,1.40205 z"
+         style="fill:#00006f;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         style="fill:#00006f;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 370.29515,659.32279 11.21634,-10.43744 c 0,0 1.05015,-0.84621 1.71361,-0.77891 0.66346,0.0673 1.71361,1.24626 1.71361,1.24626 l 23.52317,41.74973 c 0,0 0.64076,0.9915 1.24626,1.09047 0.60549,0.099 1.86939,-0.31156 1.86939,-0.31156 l 3.27144,-1.40204 -13.39731,12.77417 -24.92521,-44.39803 c 0,0 -0.42402,-0.88085 -0.93469,-1.09048 -0.51067,-0.20963 -1.8694,0.15578 -1.8694,0.15578 l -3.42721,1.40205 z"
+         id="path3611"
+         sodipodi:nodetypes="cczcczcccczcc" />
+      <path
+         sodipodi:nodetypes="caaazzzczaaaaac"
+         id="path3634"
+         d="m 414.88885,690.44887 c 0,0 9.44347,-6.65985 12.89007,-11.18592 2.33587,-3.06746 4.27271,-6.64821 4.98504,-10.43743 0.77921,-4.14505 0.47775,-8.64427 -0.9347,-12.61839 -0.9329,-2.62483 -2.47079,-5.12591 -4.78088,-6.85444 -2.31009,-1.72853 -3.66138,-2.9907 -8.57336,-3.14249 -4.91198,-0.15179 -6.77874,0.94981 -10.16892,3.29828 -3.39018,2.34847 -10.12587,11.37213 -10.12587,11.37213 0,0 3.19019,-2.70262 5.14082,-3.583 1.95063,-0.88038 4.19568,-1.56881 6.38709,-1.55783 2.94705,0.0148 6.16268,0.47815 8.56804,2.18096 2.29217,1.62268 3.75088,4.35768 4.67347,7.01022 0.83866,2.41122 0.83163,5.08896 0.62313,7.63334 -0.27978,3.4142 -0.98888,6.89208 -2.49251,9.97008 -1.47022,3.0096 -6.19142,7.91449 -6.19142,7.91449 z"
+         style="fill:#00006f;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         transform="matrix(0.86371502,-0.05682828,0.05682828,0.86371502,27.630009,120.7463)"
+         d="m 407.16782,673.81733 -8.15112,-6.93373 -9.08859,5.64932 4.07553,-9.89481 -8.18134,-6.89804 10.66993,0.8184 4.03225,-9.91253 2.51884,10.40061 10.67341,0.77175 -9.1132,5.60953 2.56429,10.3895 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.6451623"
+         sodipodi:arg1="1.0168438"
+         sodipodi:r2="5.5881343"
+         sodipodi:r1="14.705617"
+         sodipodi:cy="661.31091"
+         sodipodi:cx="399.43188"
+         sodipodi:sides="5"
+         id="path3644"
+         style="fill:#d59a36;fill-opacity:1;stroke:#000000;stroke-width:0.75099999;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="star" />
+    </g>
+  </g>
+</svg>

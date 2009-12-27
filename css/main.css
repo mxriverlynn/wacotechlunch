@@ -32,6 +32,7 @@ a:hover, a:active {
 #titlebar blockquote{
   margin: 0px;
   padding: 0px;
+  padding-left: 54px;
   clear: both;
   width: 770px;
   text-align: center;
@@ -40,6 +41,11 @@ a:hover, a:active {
 #logo {
   width: 770px;
   text-align: center;
+}
+
+#logo img {
+	float: left;
+	vertical-align: middle;
 }
 
 #logo h1{
