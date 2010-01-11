@@ -4,22 +4,23 @@ layout: nil
 
 body {
   margin: 0px;
-  background: #ebebeb url('{{ site.url }}/images/background.png') fixed no-repeat;
+  background: #cbcbcb url('{{ site.url }}/images/background.jpg') scroll no-repeat;
+  background-position: top center;
   font-family: Helvetica, Arial, FreeSans; 
   color: #000000;
   position: relative;
 }
 
 a { 
-  color: #8e641e;
+  color: #7e540e;
 }
 
 a:visited {
-  color: #8e641e;
+  color: #7e540e;
 }
 
 a:hover, a:active {
-  color: #d59a36;
+  color: #8e641e;
 }
 
 #titlebar {
@@ -53,7 +54,6 @@ a:hover, a:active {
   width: 730px;
   padding: 10px;
   float: left;
-  background-color: #ffffff;
 }
 
 #sidebar {
@@ -72,7 +72,6 @@ a:hover, a:active {
   border-left: 1px solid #cfcfcf;
   border-bottom: 1px solid #cfcfcf;
   text-align: center;
-  background-color: #ffffff;
 }
 
 #main_content p {
@@ -100,10 +99,10 @@ a:hover, a:active {
 }
 
 #footer_content{ 
-	width: 750px;
+	width: 740px;
 	height: 15px;
-	background-color: #efefef;
-	padding: 2px;
+	padding: 5px;
+	padding-top: 10px;
 }
 
 .footer_left{
