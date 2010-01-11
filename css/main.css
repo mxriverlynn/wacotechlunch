@@ -5,7 +5,7 @@ layout: nil
 body {
   margin: 0px;
   background: #cbcbcb url('{{ site.url }}/images/background.png') scroll no-repeat;
-  background-position: top center;
+  background-position: top left;
   font-family: Helvetica, Arial, FreeSans; 
   color: #000000;
   position: relative;
@@ -72,6 +72,7 @@ a:hover, a:active {
   border-left: 1px solid #cfcfcf;
   border-bottom: 1px solid #cfcfcf;
   text-align: center;
+  background-color: #ffffff;
 }
 
 #main_content p {
@@ -80,6 +81,7 @@ a:hover, a:active {
   border-left: 1px solid #cfcfcf;
   padding-left: 5px;
   padding-bottom: 5px;
+  background-color: #ffffff;
 }
 
 .post_list {
