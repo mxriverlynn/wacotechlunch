@@ -1,0 +1,32 @@
+---
+layout: post
+title: "The First Meeting Was Great! The Second Meeting Is Feb 10th!"
+---
+
+Ok, so I'm a week and a half behind on getting this blog post up. I'll try to do better in the futre... but anyways...
+
+h2. The First Meeting
+
+The first Waco Tech Lunch meeting, last week, was great! We have 8 people (including myself) show up. Here's a pic of the group:
+
+<img src="{{ site.url }}/images/meeting_pics/2010-01-13 12.39.27.jpg" width="500" border="0">
+
+Moving up the left side, we have: ["John Mathis":http://www.facebook.com/johndmathis], ["Cory Webb":http://www.corywebb.com/], and ["Alexis Marks":http://yellowwebmonkey.com]. Moving up the right side, we have: ["Mark Bourland":http://www.linkedin.com/in/markbourland], ["Eddie Flores":http://www.linkedin.com/in/eddieflores], ["Caryn Brown":http://www.carynbrown.com/], and ["Carla Pendergraft":http://www.carlapendergraft.com/]. And then there's ["me":http://derickbailey.lostechies.com], hiding behind the camera. :) We had a great time, and spent almost 2 hours talking about everything from .NET to Joomla, to phones, marketing and running your own business. 
+
+h2. The Next Meeting: February 10th, 2010, 12 Noon
+
+The next meeting will be Rudy's BBQ on February 10th, 2010. That's the second wednesday of the month. We'll be meeting from 12noon to 1pm to accomodate most people's lunch schedules. 
+
+<iframe width="700" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=rudy's+bbq,+waco,+tx&amp;sll=37.0625,-95.677068&amp;sspn=58.816238,135.263672&amp;ie=UTF8&amp;hq=rudy's+bbq,&amp;hnear=Waco,+TX&amp;z=14&amp;iwloc=A&amp;cid=2657523326593654447&amp;ll=31.536847,-97.127895&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=rudy's+bbq,+waco,+tx&amp;sll=37.0625,-95.677068&amp;sspn=58.816238,135.263672&amp;ie=UTF8&amp;hq=rudy's+bbq,&amp;hnear=Waco,+TX&amp;z=14&amp;iwloc=A&amp;cid=2657523326593654447&amp;ll=31.536847,-97.127895" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
+h3. Who Should Go?
+
+If you're a technology professional or enthusiast in the Waco, TX area, you should definitely come! That includes software developers, web developers, designers, IT support persons, and any other technical trade related to computers, software and hardware. 
+
+h3. Why Should I Go?
+
+There's a small but growing number of techies in the Waco area. I ("Derick Bailey":http://derickbailey.lostechies.com) am one of them, and I don't know very many of you. I'd like to change that by having a monthly get together over lunch, so that we can talk about technology and Waco. If you're looking to talk tech, make some new friends, and generally have fun with your fellow techies, then you should come. 
+
+h2. I hope to see you there!
+
+I hope to see everyone again at the next meeting, and hope to see some new faces, too!
