@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Second Tech Lunch Down. Should We Meet More Often?"
+---
+
+Hey! I'm doing a little better on timing with this blog post. I'm only 5 days behind, instead of a few weeks. :)
+
+h2. The Second Lunch
+
+The second lunch happened on Feb 10th, and it was a smaller group than the first time. We had myself, Caryn Brown, Dale Glaser, Mark Bourland and Hank Ivy this time around. I was glad to see some returning people and some new people, too. The overall discussion was fun as we ended up telling a lot of old war stories about breaking things to learn how they work, etc. Hopefully everyone else had as much fun as I did. 
+
+There was one other great idea that came out of this, too. Dale had the idea of getting a .NET User Group started up in the Waco area. He's in contact with Eric Hexter now, and they are discussing the details of this. If you're interested in a Waco area .NET user group, let us know! Post a comment here, over send a tweet to ["Dale":http://twitter.com/dglaser] or ["Eric":http://twitter.com/ehexter]!
+
+We were also noticed by the Rudy's management team this time. I received a ["response from Rudy's BBQ via twitter":http://twitter.com/rudysbbq/status/8984903003] shortly after heading back to the office, thanking us for having the meetings at Rudy's! Yay for support from Rudy's! They're proving that they don't just have good food - they also have great customer service and a friendly, open atmosphere! 
+
+h2. Should We Meet More Often?
+
+I'm wondering if one a month is too long between the lunches. For me, personally, this is one of the few chances that I have to socialize with other techies in the Waco area. I'm also thinking that once a month makes it a little difficult to get more people there - it's easy to forget about and it's easy to have scheduling conflicts. If you miss a meeting because ["you're out of town":http://twitter.com/corywebb/status/8915453963], then you have to go another month before the next one. 
+
+With that in mind, I want to ask if we should meet twice a month instead of one a month. What do you think? Would you be more likely to make it if you had 2 chances in a given month? Drop a comment here, ["reply via twitter":http://twitter.com/wacotechlunch] or ["email me":mailto:wacotechlunch@gmail.com].
+
+h2. The Next Meeting: March 10th, 2010, 12 Noon
+
+The next meeting will be Rudy's BBQ on March 10th, 2010. That's the second wednesday of the month. We'll be meeting from 12noon to 1pm to accomodate most people's lunch schedules. 
+
+<iframe width="700" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=rudy's+bbq,+waco,+tx&amp;sll=37.0625,-95.677068&amp;sspn=58.816238,135.263672&amp;ie=UTF8&amp;hq=rudy's+bbq,&amp;hnear=Waco,+TX&amp;z=14&amp;iwloc=A&amp;cid=2657523326593654447&amp;ll=31.536847,-97.127895&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=rudy's+bbq,+waco,+tx&amp;sll=37.0625,-95.677068&amp;sspn=58.816238,135.263672&amp;ie=UTF8&amp;hq=rudy's+bbq,&amp;hnear=Waco,+TX&amp;z=14&amp;iwloc=A&amp;cid=2657523326593654447&amp;ll=31.536847,-97.127895" style="color:#0000FF;text-align:left">View Larger Map</a></small>
+
