@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Meeting Twice A Month and Need Help March 10th."
+---
+
+h2. Meeting Twice A Month
+
+After some discussion on twiter, etc., I think there was enough interest in making the Waco Tech Lunch meet twice a month instead of just once a month. This will give people more opportunity to network and socialize, and also make it more likely that people can attend in a given month, without having to wait for another month if they miss one meetup.
+
+h3. The New Schedule: 4th Wednesday Of The Month
+
+We're adding the 4th Wednesay of the month to the schedule. This will make the new schedule for the 2nd and 4th wednesdays, meaning we will meat on March 10th and March 24th. You can get the updated google calendar from the calendar link above, or from here:
+
+<iframe src="http://www.google.com/calendar/embed?mode=AGENDA&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=wacotechlunch%40gmail.com&amp;color=%23A32929&amp;ctz=America%2FChicago" style=" border-width:0 " width="700" height="400" frameborder="0" scrolling="no"></iframe>
+
+h2. I'm Out Of Town March 10th! Need Help.
+
+Part of the reason that I wanted to make this twice a month is because I'm going to be out of town a few times in the next couple of months, and I did not want to completely miss out on our meetings. I'll be out of town on March 10th, for example - our next meeting. I'd like to keep things rolling a long, though, and would like to see if anyone is willing to print out and bring the Waco Tech Lunch signs to Rudy's on the 10th. If you are willing to help out, you can just print the logo straight from the website. Or, if you want a higher res version, you can grab it from here: ["http://github.com/derickbailey/wacotechlunch/blob/gh-pages/_source/logo/waco-logo.svg":http://github.com/derickbailey/wacotechlunch/blob/gh-pages/_source/logo/waco-logo.svg]. I used ["InkScape":http://www.inkscape.org/] to creat this (freeware), but you should be able to open it in most vector editors.
