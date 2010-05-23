@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Yes, we are still meeting twice a month!"
+---
+
+h2. Meeting Twice A Month
+
+There was a lot of interest in the waco tech lunch meetings, originally, and we had close to 20 people cycle through the various meetings for the first few months. However, in the last month or so, the numbers have dwindled down to 2 or 3 people. I know I haven't been blogging here and haven't done such a great job of getting the word out, like I originally did... but I want to fix that and I need your help.
+
+h2. How Can We Make This Better?
+
+Is t here anything we can do to make the tech lunch more interesting and appealing? Is there anything we can do the get the word out and let people know? We need ideas and we need your help. Drop a comment here, email me at [derickbailey@gmail.com:"mailto:derickbailey@gmail.com"], contact me on [Twitter:http://twitter.com/wacotechlunch], etc. Let us know how we can help keep this group going!
+
+h2. Join Us May 26th, June 9th, and June 23rd
+
+You can always find the calendar on the homepage of the site or download the calendar (.ics file) over at [google:http://www.google.com/calendar/ical/wacotechlunch%40gmail.com/public/basic.ics]. 
+
+Join us for the next few meetings and help us keep the spirit of technology alive and well in waco!
